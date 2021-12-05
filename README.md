@@ -16,7 +16,7 @@ Customer personality analysis helps a business to modify its product based on it
 3.2 PCA
 4. Supervised Task - Predict Response
 4.1 Logistic Regression
-4.2 Boosting Tree¶
+4.2 Boosting Tree
 4.3 SVM
 4.4 Nerual Network
 4.5 Final Model Performance
